@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="right">
   <img src="https://raw.githubusercontent.com/ijeffro/ijeffro/master/assets/name.svg" alt="Phil Graham" />
 </h1>
 
