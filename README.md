@@ -1,6 +1,19 @@
 
 # <img src="https://raw.githubusercontent.com/ijeffro/ijeffro/master/assets/name.svg" alt="Phil Graham" />
 
+
+<div style="display: flex; gap: 15px">
+  <div style="flex: 1">
+    <img src="https://streak-stats.demolab.com?user=ijeffro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </div>
+
+  <div style="flex: 1">
+    Phil Graham is a full-stack developer with extensive experience building and maintaining large-scale SaaS platforms. With strong expertise in Laravel, Next.js, React, Vue, and TypeScript, he delivers reliable, performant software that scales. Phil’s background spans backend architecture, responsive front-end development, and cloud infrastructures such as Vercel, AWS, and Google Cloud—all supported by a solid Linux foundation. His long-term contribution history reflects a commitment to continuous improvement and engineering excellence.
+  </div>
+</div>
+
+
+
 ## Frameworks
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20) 
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
@@ -9,6 +22,7 @@
 ## Languages
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Typscript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=3178c6)
 
 
 ## Libraries
@@ -17,8 +31,9 @@
 
 
 ## Cloud
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![Vercel](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google-cloud&color=232F3E)
 
 
 ## OS
