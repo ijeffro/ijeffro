@@ -1,8 +1,5 @@
 
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/ijeffro/ijeffro/master/assets/name.svg" alt="Phil Graham" />
-</h1>
-
+# <img src="https://raw.githubusercontent.com/ijeffro/ijeffro/master/assets/name.svg" alt="Phil Graham" />
 
 ## Frameworks
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20) 
