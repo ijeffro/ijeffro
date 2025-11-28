@@ -1,0 +1,49 @@
+<svg width="600" height="160" viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-size: 72px;
+      font-weight: 700;
+      fill: none;
+      stroke: #4f46e5;
+      stroke-width: 2;
+      stroke-linejoin: round;
+      stroke-linecap: round;
+      animation: draw 3s ease forwards;
+    }
+
+    .fill {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-size: 72px;
+      font-weight: 700;
+      fill: #4f46e5;
+      opacity: 0;
+      animation: fill 1.5s ease forwards;
+      animation-delay: 3s;
+    }
+
+    @keyframes draw {
+      0% {
+        stroke-dasharray: 0, 1000;
+      }
+      100% {
+        stroke-dasharray: 1000, 0;
+      }
+    }
+
+    @keyframes fill {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <!-- Outline stroke animation -->
+  <text x="50" y="100" class="text">Phil Graham</text>
+
+  <!-- Fade-in solid text -->
+  <text x="50" y="100" class="fill">Phil Graham</text>
+</svg>
