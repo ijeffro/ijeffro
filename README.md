@@ -2,16 +2,9 @@
 # <img src="https://raw.githubusercontent.com/ijeffro/ijeffro/master/assets/name.svg" alt="Phil Graham" />
 
 
-<div style="display: flex; gap: 15px">
-  <div style="flex: 1">
-    <img src="https://streak-stats.demolab.com?user=ijeffro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
+A full-stack engineer with extensive experience building and maintaining large-scale SaaS platforms. Expertise in Laravel, Next.js, React, Vue, and TypeScript, he delivers reliable, performant software that scales. 
 
-  <div style="flex: 1">
-    Phil Graham is a full-stack developer with extensive experience building and maintaining large-scale SaaS platforms. With strong expertise in Laravel, Next.js, React, Vue, and TypeScript, he delivers reliable, performant software that scales. Phil’s background spans backend architecture, responsive front-end development, and cloud infrastructures such as Vercel, AWS, and Google Cloud—all supported by a solid Linux foundation. His long-term contribution history reflects a commitment to continuous improvement and engineering excellence.
-  </div>
-</div>
-
+Background spans across backend architecture, responsive front-end development, and cloud infrastructures such as Vercel, AWS, and Google Cloud, all supported by a solid Linux foundation. Long-term contribution history reflects a commitment to continuous improvement and engineering excellence.
 
 
 ## Frameworks
