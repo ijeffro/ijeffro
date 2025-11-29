@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ijeffro/ijeffro/master/assets/name.svg" alt="Phil Graham" />
+<!-- # <img src="https://raw.githubusercontent.com/ijeffro/ijeffro/master/assets/name.svg" alt="Phil Graham" /> -->
 
 
 A full-stack engineer with extensive experience building and maintaining large-scale SaaS platforms. Expertise in Laravel, Next.js, React, Vue, and TypeScript, he delivers reliable, performant software that scales. 
