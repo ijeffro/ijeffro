@@ -4,7 +4,7 @@
 
 A full-stack engineer with extensive experience building and maintaining large-scale SaaS platforms. Expertise in Laravel, Next.js, React, Vue, and TypeScript, he delivers reliable, performant software that scales. 
 
-Background spans across backend architecture, responsive front-end development, and cloud infrastructures such as Vercel, AWS, and Google Cloud, all supported by a solid Linux foundation. Long-term contribution history reflects a commitment to continuous improvement and engineering excellence.
+<!--Background spans across backend architecture, responsive front-end development, and cloud infrastructures such as Vercel, AWS, and Google Cloud, all supported by a solid Linux foundation. Long-term contribution history reflects a commitment to continuous improvement and engineering excellence.-->
 
 
 ## Frameworks
