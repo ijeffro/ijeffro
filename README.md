@@ -16,21 +16,43 @@ A full-stack engineer with extensive experience building and maintaining large-s
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Typscript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=3178c6)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=FFD43B)
 
 
 ## Libraries
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/Library-React.js-61DAFB?logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=42b883)
 
 
 ## Cloud
-![Vercel](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Google Cloud](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google-cloud&color=232F3E)
+![Vercel](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&color=000000)
 
+## Database 
+![MySQL](https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=mysql&color=00758F)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
+![Microsoft SQL Server](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sql-serve&color=C57174)
 
 ## OS
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Ubuntu](https://img.shields.io/badge/System-Ubuntu-informational?style=flat&logo=ubuntu&color=e95420)
+
+## Tools
+![Bun](https://img.shields.io/badge/Manager-Bun-informational?style=flat&logo=bun&color=F9AD00)
+![Pnpm](https://img.shields.io/badge/Manager-Pnpm-informational?style=flat&logo=pnpm&color=F9AD00)
+![Yarn](https://img.shields.io/badge/Manager-Yarn-informational?style=flat&logo=yarn&color=6191a8)
+![Npm](https://img.shields.io/badge/Manager-Npm-informational?style=flat&logo=npm&color=cc3534)
+![Composer](https://img.shields.io/badge/Manager-Composer-informational?style=flat&logo=composer&color=ffffff)
+
+![Vite](https://img.shields.io/badge/Build-Vite-informational?style=flat&logo=vite&color=646CFF)
+![Node.js](https://img.shields.io/badge/Build-Node.js-informational?style=flat&logo=nodedotjs&color=3c873a)
+
+![Gitlab](https://img.shields.io/badge/Repo-Gitlab-informational?style=flat&logo=gitlab&color=fc6d27)
+![Github](https://img.shields.io/badge/Repo-Github-informational?style=flat&logo=github&color=ffffff)
+![Bitbucket](https://img.shields.io/badge/Repo-Bitbucket-informational?style=flat&logo=bitbucket&color=172b4d)
+![Jira](https://img.shields.io/badge/Scrum-Jira-informational?style=flat&logo=jira&color=172b4d)
+
 
 
 
